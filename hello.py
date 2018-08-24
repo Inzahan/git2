@@ -1,1 +1,2 @@
-print("comic spiderman!")
+if True:
+    print("world hello")
